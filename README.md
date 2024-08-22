@@ -1,4 +1,4 @@
-![Social Prep](https://github.com/user-attachments/assets/80c1f56a-db03-49f0-b207-bdf148ede20d)
+![social-media](https://github.com/user-attachments/assets/d9d81eaa-0171-466c-9cf0-93797caa7b43)
 
 > Prepare social media content, develop automated content prep programs.
 
