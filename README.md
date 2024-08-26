@@ -14,6 +14,8 @@ Moreover, Social Prep guides users through the process of setting up a posting s
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Tweet Prechshedule](https://github.com/sourceduty/Tweet_Prescheduler)
+<br>
+[Campaign Planner](https://github.com/sourceduty/Campaign_Planner)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
