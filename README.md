@@ -20,6 +20,8 @@ Moreover, Social Prep guides users through the process of setting up a posting s
 [Tweet Prechshedule](https://github.com/sourceduty/Tweet_Prescheduler)
 <br>
 [Campaign Planner](https://github.com/sourceduty/Campaign_Planner)
+<br>
+[Subreddit Finder](https://github.com/sourceduty/Subreddit_Finder)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
