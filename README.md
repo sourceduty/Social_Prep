@@ -22,6 +22,8 @@ Moreover, Social Prep guides users through the process of setting up a posting s
 [Campaign Planner](https://github.com/sourceduty/Campaign_Planner)
 <br>
 [Subreddit Finder](https://github.com/sourceduty/Subreddit_Finder)
+<br>
+[Social Simulator](https://github.com/sourceduty/Social_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
